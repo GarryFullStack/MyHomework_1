@@ -1,6 +1,4 @@
-
-# -*- coding: cp1251 -*-
-str = input("Введите слово: ")
+str = input("Р’РІРµРґРёС‚Рµ СЃР»РѕРІРѕ: ")
 if str == str[::-1]:
     print('Yes')
 else:
