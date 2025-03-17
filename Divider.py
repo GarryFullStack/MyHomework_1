@@ -1,5 +1,5 @@
 # -*- coding: cp1251 -*-
-x = int(input("Ââåäèòå ÷èñëî X: "))
+x = int(input("Введите число X: "))
 if x == 1:
      d = 1
 else:
