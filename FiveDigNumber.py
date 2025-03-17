@@ -1,5 +1,4 @@
-# -*- coding: cp1251 -*-
-number = int(input("Введите любое целое пятизначное число"))
+number = int(input("Р’РІРµРґРёС‚Рµ Р»СЋР±РѕРµ С†РµР»РѕРµ РїСЏС‚РёР·РЅР°С‡РЅРѕРµ С‡РёСЃР»Рѕ"))
 units = number % 10
 dozens = number % 100 // 10
 hundreds = number % 1000 // 100
